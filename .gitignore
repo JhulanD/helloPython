@@ -1,0 +1,21 @@
+# Python temporary/cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS & IDE files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Compressed Archives
+*.zip
